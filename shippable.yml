@@ -2,4 +2,5 @@ language: python
 
 python: 2.7
 
+build_image: vidyar/sample_img_app
 
